@@ -4,9 +4,6 @@ def say_hello():
 
 say_hello()
 
-print('Apichet Khamphukham')
-print('apichet.k@ntplc.co.th')
-
 #ตัวแปร
 x = 10
 y = 20
